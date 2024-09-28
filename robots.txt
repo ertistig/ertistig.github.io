@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ertistig.github.io/sitemap.ertistig.gz
+Sitemap: https://ertistig.github.io/app/sitemap.ertistig.gz
+Sitemap: https://ertistig.github.io/assets/sitemap.ertistig.gz
+Sitemap: https://ertistig.github.io/css/sitemap.ertistig.gz
+Sitemap: https://ertistig.github.io/data/sitemap.ertistig.gz
+Sitemap: https://ertistig.github.io/includes/sitemap.ertistig.gz
+Sitemap: https://ertistig.github.io/item/sitemap.ertistig.gz
+Sitemap: https://ertistig.github.io/src/sitemap.ertistig.gz
